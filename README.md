@@ -8,6 +8,6 @@
 
 ## Contact
 - [@aleasper](https://t.me/aleasper) on Telegram
-- [email](mailto: alexidest@gmail.com)
+- email: alexidest@gmail.com
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=aleasper&show_icons=true&theme=dark)
