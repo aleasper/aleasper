@@ -1,4 +1,4 @@
-## Fullstak web-developer
+## Fullstack web-developer
 
 ## Skills
 - 👨‍💻 JavaScript, HTML5, CSS/SCSS, Python3
